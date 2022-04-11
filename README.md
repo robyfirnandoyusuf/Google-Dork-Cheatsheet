@@ -11,6 +11,7 @@
 | allintitle      | Searches for occurrences of keywords all at a time. | `allintitle:"keyword"` |
 | site      | Specifically searches that particular site and lists all the results for that site. | `site:"www.google.com"` |
 | filetype      | Searches for a particular filetype mentioned in the query. | `filetype:"pdf"` |
+| ext      | Same as filetype. Searches for a particular filetype mentioned in the query. | `ext:"pdf"` |
 | link      | Searches for external links to pages. | `link:"keyword"` |
 | numrange      | Used to locate specific numbers in your searches. | `numrange:321-325` |
 | before/after      | Used to search within a particular date range. | `filetype:pdf & (before:2000-01-01 after:2001-01-01)` |
